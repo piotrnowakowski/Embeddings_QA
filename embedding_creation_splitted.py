@@ -21,7 +21,7 @@ def process_data(data):
     return structured_data
 
 # Read JSON data from the 'documentation.json' file
-with open('documentation.json', 'r') as file:
+with open('documentation/documentation.json', 'r') as file:
     data = json.load(file)
 print('done')
 # Process the data
