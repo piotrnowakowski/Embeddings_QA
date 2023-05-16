@@ -1,3 +1,4 @@
 openai_key.txt
 pinecone_api.txt
 documentation
+__pycache__
