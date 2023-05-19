@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+langchain==0.0.173
+numpy==1.24.2
+pandas==2.0.0
+pinecone_client==2.2.1
+sentence_transformers==2.2.2
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.29.1
