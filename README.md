@@ -21,11 +21,11 @@ The application is designed to provide users with answers to their questions usi
 1.  Ensure that you have installed all the necessary libraries. If not, install them using pip.
 
 
-    pip install langchain pinecone pandas numpy beautifulsoup4 
+    ```pip install -r requirements.txt```
 
 2.  Clone the repository to your local machine.
 
-    git clone <repository_url> 
+    ```git clone <repository_url> ```
 
 3.  Navigate into the cloned repository.
 
